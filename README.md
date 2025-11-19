@@ -45,16 +45,6 @@ Each move normally prints the **step count** to the terminal.
 
 ---
 
-## 🖼 Visuals
-
-> (Optional: replace with a real screenshot or GIF later.)
-
-<p align="center">
-  <img src="https://via.placeholder.com/480x270?text=so_long+preview" alt="so_long preview" />
-</p>
-
----
-
 ## 🚀 How to Run
 
 ### ✅ Requirements
